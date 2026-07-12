@@ -1,0 +1,13 @@
+{
+  "name": "Noluthando Dlamini",
+  "age": 32,
+  "country": "South Africa",
+  "city": "Durban",
+  "career_goal": "Software Engineer",
+  "current_focus": "Learning Python and JSON",
+  "programmes": [
+    "AWS Unified Programme",
+    "FNB App Academy",
+    "Rethink Code IDC"
+  ]
+}
